@@ -6,7 +6,7 @@ Gerenciamento de Livros:
 
 <img src="./Dia/genlivro.png">
 
-Empréstimos de Livros:
+Gerenciamento de Empréstimos:
 
 <img src="./Dia/livrouso.png">
 
@@ -27,5 +27,9 @@ Diagrama de Fluxo Cadastro de Empréstimo:
 <img src="./Dia/cempflux.png">
 
 Diagrama de Fluxo Cadastro de Livro:
+
+<img src="./Dia/livroflux.png">
+
+Diagrama de Fluxo Cadastro de Usuário:
 
 <img src="./Dia/userflux.png">
