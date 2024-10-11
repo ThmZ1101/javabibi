@@ -24,7 +24,7 @@ Diagrama de Classe para Usuario:
 
 Diagrama de Fluxo Cadastro de Empréstimo:
 
-<img src="./Dia/cempflux">
+<img src="./Dia/cempflux.png>
 
 Diagrama de Fluxo Cadastro de Livro:
 
